@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Eleanor Vance - Internal Medicine & Medical Clinic",
+  "description": "Comprehensive, modern healthcare website for Dr. Eleanor Vance, MD. Explore medical services, doctor qualifications, clinical experience, patient reviews, and book consultation appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
